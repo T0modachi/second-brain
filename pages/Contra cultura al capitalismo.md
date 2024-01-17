@@ -1,0 +1,1 @@
+Para evitar la hiper productividad y el cansancio de la sobre exigencia (exclavo de una mismo ) la respuesta tonta de han es la "inactividad" sin embargo lo que se necesita es diluir el yo... El sentido de la vida está en experimentar esas experiencias y la extinsión de estás experiencias por el capitalismo, es el apagón del espíritu que causa

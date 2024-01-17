@@ -1,0 +1,1 @@
+Hacer un plugin de obsidean para compartir tu bóveda o secciones de estas
