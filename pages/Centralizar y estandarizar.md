@@ -15,3 +15,5 @@
   Habitualmente las organizaciones terminan estandarizando los procesos queriendo controlar con el mayor detalle, todo lo que hacen las personas. Esto genera una cultura en contra del accountability, la responsabilidad ya no es propia sino de quién diseño el proceso, solo debo seguir las instrucciones,las personas esperan que les digan que hacer, nunca se hacen responsables ya que siguen el procesos y la propia organización cree que la excelencia la muestran quienes siguen el proceso y no quienes demuestran mejores resultados
   
   En resumen no estandarizar procesos, sino que inputs y outputs
+-
+- Una ventaja de estandarizar puede ser bajar la carga cognitiva... Pero ojo eso solo a nivel gerencial por qué las realidades siempre son distintas
