@@ -1,4 +1,4 @@
 - Intenta hacer un experimento con una interfaz del tipo lenguaje natural
 - Me imagino un pantalla blanca a lo chatgpt dónde te ofrezca cuál es el "Job to be done" y luego te lleve a esa página para que completes el flujo
 - Sería genial meterle ia y que te ofrezca pasos que seguir para que los ejecute tras confirmación del usuario
--
+- es mas bien una copia del proyecto  https://github.com/microsoft/TaskWeaver o https://github.com/KillianLucas/open-interpreter/  ... pero con el uso de Arquitectura hexagonal, tendrias acceso a cada uno de tus casos de uso ...skills le llama taskweaver
