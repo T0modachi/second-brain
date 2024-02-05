@@ -1,0 +1,2 @@
+- Me parece que con la llegada de la ia y en específico con los llm, el ser humano se tendrá que transformar en escritor, el trabajo constará de escribir tu conocimiento, lo que alimentará agentes que razonaran en base a la creatividad innata del ser humano... Lejos de la imagen de la ia que transforma en baterías a los humanos en matrix... Me estoy imaginando un mundo donde nos transforman en escritores
+- Trabajar será en gran parte escribir

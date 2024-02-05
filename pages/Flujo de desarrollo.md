@@ -1,0 +1,11 @@
+- Escribe un test
+- Escribe código
+- Refactorizas para que sea más fácil de entender
+- Repite pero cambia los objetivos del refactoring , el orden es
+	- Fácil de entender
+	- Fácil de modificar
+	- Performance, para esto usa un profiler en el test primero... No imagines problemas de performance, medir!!!
+-
+-
+- Si eres nuevo en una parte del código y te hace difícil entenderlo... Parte con un refactoring que te ayude a entender mejor el código... Hazlo solo si exiten tests
+- [[refactoring]]

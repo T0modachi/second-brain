@@ -1,0 +1,4 @@
+- Según el profe Luis Fernández Muñoz, una clase perfectamente puede estar acoplada a 3-5 clases... Si estás acoplado a 20 ... La estás cagando
+- {{video https://youtu.be/n3Q6SRNc7Jg?si=MbXnqNzFbnhvJdRV}}
+- Minuto 7
+-

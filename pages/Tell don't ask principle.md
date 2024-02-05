@@ -1,0 +1,2 @@
+- https://www.linkedin.com/posts/vaughnvernon_the-world-would-be-a-much-better-place-if-activity-7158975496897060864-v2aX?utm_source=share&utm_medium=member_android
+-

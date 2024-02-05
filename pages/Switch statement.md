@@ -1,0 +1,2 @@
+- Según [[Martin Fowler]] es mala idea tener un switch en base a un atributo de otro objeto, si tienes que hacer un switch que sea en base a tu propia data
+- En [[refactoring]] sugiere cambiarlo por polimorfismo

@@ -1,0 +1,3 @@
+- The amount of energy needed to refute [bullshit](https://en.m.wikipedia.org/wiki/Bullshit) is an [order of magnitude](https://en.m.wikipedia.org/wiki/Order_of_magnitude) bigger than that needed to produce it.
+-
+- https://en.wikipedia.org/wiki/Brandolini%27s_law

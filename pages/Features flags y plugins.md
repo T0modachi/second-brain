@@ -1,0 +1,1 @@
+- Los features flags se deben aplicar con arquitectura de plugins... Es decir deciden que controlador (caso de uso) se debe usar.... No estar "if" por toda tu aplicación para entregar nuevo comportamiento

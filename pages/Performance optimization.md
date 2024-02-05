@@ -1,0 +1,4 @@
+- Una mejora en la optimización no es un [[refactoring]] ya que no mejora el código para que sea más sencillo de entender
+- Muchas veces al contrario hay que hacer que sea difícil de entender para lograr una optimización en rendimiento
+-
+- Todo: linkea al libro de Martin refactoring dónde encontraste está cita
