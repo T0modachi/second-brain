@@ -1,0 +1,5 @@
+- lo he visto referenciando en un montón de partes, comentan que es para avanzados tratando de aprender [[DISTRIBUTED SYSTEMS]]
+- [https://amzn.to/3fxgOLm](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVNDT3ZLQV9xbTVnQkNZR0M2bGxlcy1RREg1UXxBQ3Jtc0tsOTFEdm9oa05PRlB2b0JvU01ZQlpCVmhOMkNKck91ODk4RDJiR0hjYkZKcUh1SmxrUWl1VHRUYkh0QlhoUXI2LVFvdHlzSVhNd2c4XzUyZzdfSkwwcWt2c0NmdmxPX2Y5bmcxRF9XNDhIa1FBS2ZKcw&q=https%3A%2F%2Famzn.to%2F3fxgOLm&v=Y2iJOPxw0JU)
+- {{video https://www.youtube.com/watch?v=Y2iJOPxw0JU&t=835s}}
+- [[libros por leer]]
+-

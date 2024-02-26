@@ -1,0 +1,1 @@
+- la escritura exploratoria permite dejar volar las ideas, extender lo aprendido y generar conocimiento

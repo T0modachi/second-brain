@@ -1,0 +1,9 @@
+- https://amzn.to/3wuACLP
+- {{video https://youtu.be/IsQUT9xRYSg?si=IWK2U1FpsE5U3rX8}}
+- en este video el compadre comenta como este autor que fue editor de importantes compañías explica como hay que escribir para aprender. Algo interesante es que describe dos tipos de escritura
+	- [[escritura explicativa ]]
+	- [[escritura exploratoria]]
+	-
+- [[libros por leer]]
+- [[william zinsser]]
+-

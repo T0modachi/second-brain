@@ -1,0 +1,1 @@
+- este tipo de escritura sirve para sintetizar conocimiento aprendido o con intención de ser enseñado

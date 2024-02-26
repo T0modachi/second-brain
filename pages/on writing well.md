@@ -1,0 +1,6 @@
+- libro con excelentes consejos sobre como escribir
+- https://amzn.to/3OZ9Xx8
+- {{video https://youtu.be/IsQUT9xRYSg?si=IWK2U1FpsE5U3rX8}}
+- [[libros por leer]]
+- [[william zinsser]]
+-

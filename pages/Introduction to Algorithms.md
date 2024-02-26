@@ -1,0 +1,5 @@
+- un tipo comenta que es buen libro avanzado para [[DSA]]
+- [https://amzn.to/2V03JRb](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2RZTXJlMks3UXBFdnlqTnZQTXZ3TjR1QXU1Z3xBQ3Jtc0trc3ZjN1RsakI1dnN4aThBYk9UZTBrbW9mYWdzMk4wYlBTWlQzWW10VTZxOV9pbTVFUDFpMDBuNl9CYnlKRmpiVm5JMkdVWHRkaUx4Zy12RUpNejRtdEVPRW5tTi1aY1RDWnlQZkR4Rjc5UzhoUUptNA&q=https%3A%2F%2Famzn.to%2F2V03JRb&v=Y2iJOPxw0JU)
+- {{video https://www.youtube.com/watch?v=Y2iJOPxw0JU&t=835s}}
+- [[libros por leer]]
+-

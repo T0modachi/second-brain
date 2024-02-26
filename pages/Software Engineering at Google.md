@@ -1,0 +1,11 @@
+- [[libros por leer]] lo deje a medias... hay que retomar
+- hasta donde leí tenia practicas muy interesantes, que dudo sigan haciendo. Pero de aca aprendí
+	- la pregunta de los 5 años, muy buena técnica preguntar a un ingeniero como imagina su carrera en 5 años mas para poder ayudarlo en su carrera
+	- que el motivo mas importante por el cual quisieras subir a manager es para causar mas impacto, a medida que subes el nivel de impacto que tienen tus acciones se multiplica
+	- la magnifica estructura de [[post-mortem]] que manejan
+	-
+	-
+- [[ingeniería de software]]
+- [https://amzn.to/4bKcCV6](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDVVMVh5bjBpYW1GOTZTUXVZZ1dBWDU3bVRQd3xBQ3Jtc0tuZmsySnZhR1gxTFJvWXpqZkVoUzBUVEk3aDAxQ0N1bnlCOGZZTUZsWjNjcWJIek9MSUdDMDkzWlFoM2d4RlpUSS1uajZrbVZlVm1XZ2QyNWhJVm9wWERXcHlIZFFOUEM0V09ETXQxa3pIMGc1ODNNbw&q=https%3A%2F%2Famzn.to%2F4bKcCV6&v=Y2iJOPxw0JU)
+- {{video https://www.youtube.com/watch?v=Y2iJOPxw0JU&t=835s}}
+-

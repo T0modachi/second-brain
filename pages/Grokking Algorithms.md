@@ -1,0 +1,5 @@
+- un tipo recomienda este libro para aprender del tema de [[DSA]] Beginner frendly
+- [[libros por leer]]
+- {{video https://www.youtube.com/watch?v=Y2iJOPxw0JU&t=835s}}
+- [https://amzn.to/2JcBrjS](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdUUGt5Wk54dWJHOVRJeHdFam16d0drOHhYQXxBQ3Jtc0ttWmdNYWdOc1B6QUVObi05RGVfYmY4Q2pJUjR4ckVYUDZteHpDUlM5MXFyX284TGdXcEZsN1BTQnlkUVZHd0JEZUtpcm9uLW1KS3I4em15M0pWWGttdFY1ZDNTU1hTNE54Qklhbk1LVDZ1Tmg0UXdvcw&q=https%3A%2F%2Famzn.to%2F2JcBrjS&v=Y2iJOPxw0JU)
+-

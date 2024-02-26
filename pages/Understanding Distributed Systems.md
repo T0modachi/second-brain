@@ -1,0 +1,5 @@
+- este libro lo recomiendan como para novatos tratando de entender [[DISTRIBUTED SYSTEMS]]
+- [https://amzn.to/3cjChr5](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGdPU2hmbFVydmQtbVJCTjZVY3hDZjlTWEowd3xBQ3Jtc0tuUUxMYmx5OGQtU1VpWjRzSVJBd1NXdjBhNV9TVTE5QUFyQlJuaVRRS2p3LS0xSno0TkxBZnNiRG9qV2g0NWxvRHFVdUhGNmxGVXBoUXloNjltZTQ2a093OFVFQV9sUWFtWkZKMTY2azBBSXh4S0JQVQ&q=https%3A%2F%2Famzn.to%2F3cjChr5&v=Y2iJOPxw0JU)
+- {{video https://www.youtube.com/watch?v=Y2iJOPxw0JU&t=835s}}
+- [[libros por leer]]
+-

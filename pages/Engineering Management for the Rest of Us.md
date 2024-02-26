@@ -1,0 +1,6 @@
+- me parece que este es el libro azul al que referencian varios EMs
+- [https://amzn.to/3JanteZ](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa242amhoM3I0SHF1RUpwVmt0ZmUtYkJqVjJJZ3xBQ3Jtc0ttTVV2VzhYeDR3WHFSYWx6RWFWQlRObjZ6N0lpcjU3VjVuVzNjdGhSY0lGcmJDUUk4Z3JLTXZaZ05JRFdWRmdGQjJ6Y2NLWVpGTHk0MEJhSmtlZ2p2Q09zZWl4Mmd4clVvbjBZanZUZ0pKWFdvQnZEWQ&q=https%3A%2F%2Famzn.to%2F3JanteZ&v=Y2iJOPxw0JU)
+- {{video https://www.youtube.com/watch?v=Y2iJOPxw0JU&t=835s}}
+- [[MANAGEMENT]]
+- [[libros por leer]]
+-

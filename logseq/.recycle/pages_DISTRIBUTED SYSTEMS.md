@@ -1,0 +1,2 @@
+- este libro lo recomiendan como para novatos
+-

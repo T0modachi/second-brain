@@ -1,0 +1,5 @@
+- [[Martin Fowler]]
+- [[libros por leer]]
+- [[arquitectura de software]]
+- https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420
+-

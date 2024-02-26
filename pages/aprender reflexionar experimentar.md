@@ -1,0 +1,7 @@
+- "hay que ganar el suficiente dinero como para tener tiempo para pensar" , no pude rastrear el origen de la frase, posible mente no tenga uno. yo pensaba que era de [[Aristóteles]] , GPT dijo que pudo ser [[Blaise Pascal]] pero en fin me parece importante para recuperar un sentido humano, llegar a tener alma practicar estas acciones
+	- aprender: mediante libros, videos, etc. aqui incluyo la actividad de [[escritura explicativa]]
+	- reflexionar: dejar volar las ideas. aquí incluyo la actividad de [[escritura exploratoria]]
+	- experimentar: pon en practica las cosas que aprendes
+- me doy cuenta que estas actividades son lentas por naturaleza, requieren tiempo y me da una lata tremenda verlas descritas en blogs de productividad y de hábitos para ser millonario
+- [[Mi filosofía]]
+-
