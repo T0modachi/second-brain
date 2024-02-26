@@ -1,0 +1,2 @@
+- Estudia pharo
+- Crea herramientas en gtoolkit que ayuden a tus equipos

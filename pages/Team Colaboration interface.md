@@ -16,3 +16,7 @@ SLA: tiempo en que el equipo debe responder
 Artefacto de salida : mensaje/documento con formato estandar de salida
 
 eventos de salida: mails con artefacto, reunión de colaboración con agenda definida, etc.
+
+-
+-
+- Descubrí que está misma idea es la de "team api" en team topologies

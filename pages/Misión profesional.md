@@ -1,0 +1,1 @@
+- Entrenar generaciones que recuperen el modelado del dominio y el diseño orientado a objetos... Rompiendo con la dictadura procedural que introdujeron los frameworks mvc web
