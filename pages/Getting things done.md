@@ -1,0 +1,14 @@
+- Libro de [[David Allen]]
+- [[libros por leer]]
+- Resumen https://youtu.be/bwvl5p77DTA?si=rvaCkhAuMv2PVnpu
+- 5 pasos
+	- Captura
+	- Clarifica
+	- Organiza
+	- Reflexiona
+	- Conecta (engage)
+	  collapsed:: true
+		-
+	- ![Screenshot_2024-02-27-22-24-50-281_com.google.android.youtube](../assets/Screenshot_2024-02-27-22-24-50-281_com.google.android.youtube.jpg)
+	- Agregaría que cualquiera rutinaria hay que evaluar si se puede automatizar
+-

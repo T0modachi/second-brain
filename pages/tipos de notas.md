@@ -1,0 +1,9 @@
+- Este compadre habla de tres tipos de notas + 1 si te interesa publicar
+- {{video https://youtu.be/GRA_fwbdrtc?si=B3lHcbSivkIv442n}}
+- Estás son:
+	- [[notas de referencia]]
+	- [[notas de literatura]]
+	- [[notas permanentes]]
+	- [[notas de publicaciones]]
+	-
+-

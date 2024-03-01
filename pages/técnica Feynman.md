@@ -1,0 +1,6 @@
+- Identifica la información
+	- Ten clara la idea que quieres capturar
+- Cómo enseñarás la idea?
+	- Imagina se la enseñas a un niño de 12 años
+- Cómo suena tu explicación?
+	- Suena simple?

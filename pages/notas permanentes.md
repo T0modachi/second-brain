@@ -1,0 +1,5 @@
+- Son tus ideas "originales" sobre un tema
+- Deben ser atómicas es decir una nota por idea
+- Y alguien con conocimiento general debiese ser capaz de leerla y comprenderla
+- Es decir espérate por lograr algo a lo [[técnica Feynman]] como resumir una idea compleja para que sea fácil de explicar
+-

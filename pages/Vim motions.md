@@ -1,0 +1,3 @@
+- Todo: colecciona como referencia cosas utiles y anda practicando las cada semana... Concentrandote en unas pocas
+- https://youtu.be/lWTzqPfy1gE?si=fAc6eSY1QcesfT0g
+-

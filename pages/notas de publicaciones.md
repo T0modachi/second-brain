@@ -1,0 +1,2 @@
+- Finalmente estás notas son si te interesa hacer una publicación académica o algo por el estilo
+- Con todo este sistema nunca comienzas desde la nada
