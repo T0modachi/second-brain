@@ -1,0 +1,8 @@
+- {{video https://youtu.be/TDYa2pPMx0k?si=S_21hWh-5oWIYi14}}
+- [[métodos de estudio]]
+- la gracia es no pasar un tiempo largo estudiando un solo tema, hay que cambiarse de temas constantemente
+- el wn presenta un estudio donde dos grupos de estudiantes aprendían como calcular volumenes de figuras un tanto complejas
+	- el primer grupo estudiaba largo un mismo tipo de forma... estos wns sacaban buenas notas en las pruebas que venian de inmediato
+	- el segundo, estudiaba distintos tipos, algunos dificiles mezclados con faciles. estos wns sacaron no muy buenas notas en un examen inmediato
+	- pero en una prueba a la semana de haber estudiado, los del segundo grupo pasaron con creces a los del primero, quienes bajaron su nota sustancialmente
+- este efecto que comenta, lo veo cuando los cabros aprenden algo y no saben como aplicarlo, les cambias el contexto y ya se pierden. No logran captar los principios o fundamentos, por lo tanto se quedan siempre con "recetas" que creen deben aplicar en siempre de la misma manera

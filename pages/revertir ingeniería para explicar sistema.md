@@ -1,0 +1,5 @@
+- propongo esta tecnica como faliciitación para explicar un:
+	- sistema complejo
+	- con varios años de desarrollo
+	- con recambio de miembros del equipo
+- la técnica consiste en hacer un ejercicio de "rol play" donde se simule de manera "análoga" el sistema... como si viajásemos en el tiempo y viviésemos el equivalente a hacer los procesos a mano mediante hojas impresas

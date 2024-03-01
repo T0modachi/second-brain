@@ -1,0 +1,12 @@
+- [[métodos de estudio]]
+- {{video https://youtu.be/TDYa2pPMx0k?si=S_21hWh-5oWIYi14}}
+- estos metodos estan avalados cientificamente
+- según explica viene de un experimento donde niños que leían párrafos cortos y luego intentaban recitaban lo que leyeron tuvieron mucho mejores resultados
+- en resumen es ocupar cualquier tecnica para ponerte a prueba a ti mismo. ente ellas hay
+	- free recall
+	- pruebas de respuestas multiples
+	- pruebas de verdadero o falso
+	- [[flashcards]]
+	-
+- tiene un efecto mas grande si lo intentas durante periodos de tiempo espaciado y hay una tecnica llamada [[spaced practice]]
+	-

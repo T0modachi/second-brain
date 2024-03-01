@@ -1,0 +1,15 @@
+- se refiere a las notas o ilustraciones que pones en los margenes de un libro
+- {{video https://youtu.be/uiNB-6SuqVA?si=-ilCG_n1QK__Pm96}}
+- [[Jeffrey Kaplan]] da un procedimiento para [[absorber y recordar]] información y va asi:
+	- al margen del primer párrafo escribe una nota que resuma todo el párrafo en una oración
+	- al margen del segundo párrafo escribe una nota que resuma todo el párrafo en una oración (ídem)
+	- en el tercer parrafo escribe 2 notas:
+		- una oración que resuma los dos anteriores
+		- una oración que resuma el parrafo en curso (tercero)
+	- al cuarto parrafo escribe 2 notas:
+		- una oración que resuma las 3 anteriores
+		- una oración que resuma el párrafo en curso
+	- continua al infinito
+- lo presenta cono un antídoto a [[pasar los ojos por la lectura]] que seria leer y no retener nada
+- [[métodos de estudio]]
+-

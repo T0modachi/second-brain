@@ -1,0 +1,2 @@
+- https://www.amazon.es/How-Take-Smart-Notes-Technique/dp/3982438802/ref=asc_df_3982438802/?hvadid=529772190635&hvpos=&hvnetw=g&hvrand=958561245189537460&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9181160&hvtargid=pla-1642219196589&psc=1&mcid=9a30e4a3f3443324a725099e5a13862e
+-

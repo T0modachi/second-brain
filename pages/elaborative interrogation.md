@@ -1,0 +1,4 @@
+- {{video https://youtu.be/TDYa2pPMx0k?si=S_21hWh-5oWIYi14}}
+- [[métodos de estudio]]
+- no es mas que el "que es eso?" "como funciona?" que hacen naturalmente los niños.
+	- hacer estas preguntas te lleva a retener de mejor manera un tema

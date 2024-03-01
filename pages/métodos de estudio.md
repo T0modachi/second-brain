@@ -1,0 +1,5 @@
+- https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y
+- https://www.learningscientists.org/
+- https://www.coursera.org/learn/learning-how-to-learn
+- [https://amzn.to/3PWyLqc](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0ZmVkNSNWVzNzh4ZXJVV0I2RVQ0NXNEVEYtd3xBQ3Jtc0tuSVlrcEMzLU4ySV9CRU1tOEFBZ3FNckdXMVptdHU3Q0d6LVdfTkZ5ZFlMUkZheFZyeER3S0hMZzgwbVN2NU1aMkRqTFBYdnhGYlA3azNVNTBHLXNzbzRhWV9oTFJmZU83ODVuQ1dLc3ExWHNOa1I0SQ&q=https%3A%2F%2Famzn.to%2F3PWyLqc&v=TDYa2pPMx0k)
+-

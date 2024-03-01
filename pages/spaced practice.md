@@ -1,0 +1,7 @@
+- el wn explica como dejar pasar un tiempo entre cada sesión de practica/estudio ayuda enormemente a retener la información
+- {{video https://youtu.be/TDYa2pPMx0k?si=S_21hWh-5oWIYi14}}
+- con esta técnica puedes doblar el impacto de un nota según explica
+- mientras mas largo sea el tiempo del espacio, mas tiempo lo vas a poder recordar
+- según una imagen del vídeo pareciera ser que con 1 día de distancia ya se logran excelentes resultados
+- [[métodos de estudio]]
+-
