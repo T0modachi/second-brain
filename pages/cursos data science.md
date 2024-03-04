@@ -1,0 +1,4 @@
+- https://www.kaggle.com/learn
+- tambien hay unos cursos del la universidad de standford
+- https://www.statlearning.com/
+- [[cursos por hacer]]

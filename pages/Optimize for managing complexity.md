@@ -1,0 +1,8 @@
+- [[dave farley]]
+- [[modularity]]
+- [[cohesion]]
+- [[separation of concerns]]
+- [[information hidding]]
+- [[abstraction]]
+- [[managing coupling]]
+-

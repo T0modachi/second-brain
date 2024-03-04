@@ -1,0 +1,2 @@
+- Principio del Menor Conocimiento
+- Principle of Least Knowledge

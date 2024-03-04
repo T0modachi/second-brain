@@ -1,0 +1,3 @@
+- https://www.coursera.org/programs/todos-cas-z0lux/specializations/uva-darden-digital-product-management?source=search
+- [[cursos por hacer]]
+-

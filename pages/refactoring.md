@@ -3,3 +3,5 @@
 - Todo: linkea todos los codesmell a sus técnicas para solucionar basándote en el capítulo dónde se repasan los codesmell
 -
 - [[Martin Fowler]]
+- [[Oop diseño]]
+-

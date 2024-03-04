@@ -1,0 +1,5 @@
+- https://martinfowler.com/bliki/BeckDesignRules.html
+- Passes the tests
+- Reveals intention
+- No duplication
+- Fewest elements

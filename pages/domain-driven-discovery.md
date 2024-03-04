@@ -1,0 +1,5 @@
+- esta muy interesante esta propuesta de discovery y arquitectura emergente
+- https://www.singlestoneconsulting.com/domain-driven-discovery
+- [[domain driven design]]
+- el autor esta linkeado a esto tb https://www.mobiusloop.com/
+	- podría ser interesante, es un framework de discovery a delibery

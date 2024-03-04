@@ -1,0 +1,3 @@
+- Intenta probar ese proyecto algún día
+- Te enseña a crear tu propia distro
+-

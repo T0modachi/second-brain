@@ -1,0 +1,13 @@
+- [[side projects]]
+- darle cariño al blog, aca inspiraciones
+- [https://www.0xshapeshifter.dev/](https://www.0xshapeshifter.dev/)
+- [https://daftsocial.com/?ref=deadsimplesites](https://daftsocial.com/?ref=deadsimplesites)
+- [https://www.ijpowell.co.uk/?ref=deadsimplesites](https://www.ijpowell.co.uk/?ref=deadsimplesites)
+- [https://deadsimplesites.com/?ref=dailydev](https://deadsimplesites.com/?ref=dailydev)
+-
+- tambien se te ocurrio hacerlo con WASM y que desde el sitio, permita hacer preguntas a tu second brain con un RAG o algo asi
+-
+- articulos que fijo deben ir
+	- [[Centralizar y estandarizar]]
+	- unfix y el mecanismo de venta, donde amplifica el semantic diffusion
+	- procesos centrados en el manager... sobre como los manager infligen procesos sin ningún valor para los clientes, y solo por que les da la ilusión de tener todo bajo control terminamos haciendo reportes para ellos

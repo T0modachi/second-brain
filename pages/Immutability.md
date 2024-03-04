@@ -1,0 +1,2 @@
+- no es un principio a buscar si no una a balancear, en muchos aspectos es mejor tener diseños inmutables, como en los [[value objects]]  que son el bloque base de [[domain driven design]]
+-

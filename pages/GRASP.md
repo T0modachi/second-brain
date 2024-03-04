@@ -1,0 +1,10 @@
+- General Responsibility Assignment Software Patterns
+	- [[Information Expert]]
+	- [[Creator]]
+	- [[Controller]]
+	- [[Low Coupling (Controller and High Cohesion)]]
+	- [[Polymorphism]]
+	- [[Pure Fabrication]]
+	- [[Indirection]]
+	- [[Protected Variations]]
+	-
