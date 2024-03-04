@@ -1,0 +1,4 @@
+- [https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/)
+- [https://boringtechnology.club/](https://boringtechnology.club/)
+- [https://building.nubank.com.br/the-value-of-canonicity/](https://building.nubank.com.br/the-value-of-canonicity/)
+-

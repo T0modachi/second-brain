@@ -1,2 +1,3 @@
 - tambien conocido como least surprice
+- lo veo muy relacionado con [[Uniform Access Principle]]
 -
