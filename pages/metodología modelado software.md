@@ -1,0 +1,3 @@
+- Análisis del dominio
+- Asignación de responsabilidades
+- Relaciones entre clases

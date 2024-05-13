@@ -1,0 +1,4 @@
+- Es una cadena de necesidades
+- Simón wardley lo explica con una tasa de te
+	- Necesita agua y te
+	- El agua necesita electricidad y un hervidor para calentar

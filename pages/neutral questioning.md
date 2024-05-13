@@ -1,0 +1,2 @@
+- https://www.semanticscholar.org/paper/Neutral-Questioning%3A-A-New-Approach-to-the-Dervin-Dewdney/afe03051cdfc37d0b5d227c49aeae21feedf1f0a
+- Este paper contiene preguntas que permiten acceder al meoyo del sensei making que son la situación, el Gap y el outcome

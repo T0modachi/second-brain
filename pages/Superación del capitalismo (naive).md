@@ -1,0 +1,7 @@
+- Cómo tesis estoy pensando en mantener todo igual y hacer un pequeño cambio en la definición de empresa, primero voy a partir con algunos problemas que identifico en el capitalismo y comunismo
+- Siento el comunismo simplemente con el león de nietchzce, solo es un acto de rebelión un opuesto igual de conservador que su negativo, su existencia está ligada a la del capitalismo
+- El capitalismo tiene el error de poner el medio(dinero) como un fin. Lo que causa es un mundo que corre con los ojos vendados intentando conseguir a cualquier costo un beneficio económico y cuando lo alcanza no sabe que hacer con el, es una acumulación sin fin ni propósito
+- Bajo estos dos puntos propongo entregar sentido al esquema capitalista a modo de arreglarlo, hago esto cambiando la definición de empresa a
+	- Una empresa es una unidad de organización dedicada a la maximización del bienestar humano mediante el uso de actividades productivas con fines lucrativos... Ahora se le entrega un propósito
+	- Cada empresa debe definir qué entiende por bienestar humano, exponiendo claramente su ética... Que importa mucho más que su misión y visión
+- En mi caso defino bienestar siguiendo [[Mi filosofía]]

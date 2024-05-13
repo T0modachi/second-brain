@@ -1,0 +1,3 @@
+- Autor: David epstien
+- Habla sobre como ser generalistas en algunos escenarios es mejor que ser especialista
+- [[libros por leer]]

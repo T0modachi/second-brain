@@ -3,3 +3,5 @@
 - [[decomposition]]
 - [[generalization]]
 -
+- [[metodología modelado software]]
+-

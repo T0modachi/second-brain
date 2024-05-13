@@ -1,0 +1,11 @@
+- [[Brenda dervin]]
+- {{video https://youtu.be/Cz7pfd_Y7Ek?si=4Q1Ak_8ZAwxv9W-_}}
+- Enfocado en la persona no en la información
+	- Situación
+	- Gap
+		- Preguntas
+		- Confusiones
+	- Outcome
+	-
+- [[neutral questioning]]
+-
