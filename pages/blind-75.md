@@ -1,0 +1,3 @@
+- el creador de esta lista, tiene un sitio re bueno para aprender [[DSA]]
+	- https://www.techinterviewhandbook.org/
+- revisa su grind-75

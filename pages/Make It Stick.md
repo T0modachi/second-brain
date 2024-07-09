@@ -1,0 +1,4 @@
+- libro para recordar lo que se aprende
+	- https://www.amazon.es/Make-Stick-Science-Successful-Learning/dp/0674729013
+	- [[libros por leer]]
+	-

@@ -1,0 +1,4 @@
+- este libro recomiendan para ser bueno con los numeros y algoritmos
+	- https://barbaraoakley.com/books/a-mind-for-numbers/
+- [[libros por leer]]
+-
