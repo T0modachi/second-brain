@@ -1,0 +1,3 @@
+- [[PR para vimPlugins en nix con venv-selector]]
+- [[PR para devenv.sh con localstack como servicio]]
+-

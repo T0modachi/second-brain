@@ -11,3 +11,7 @@
 	- [[Centralizar y estandarizar]]
 	- unfix y el mecanismo de venta, donde amplifica el semantic diffusion
 	- procesos centrados en el manager... sobre como los manager infligen procesos sin ningún valor para los clientes, y solo por que les da la ilusión de tener todo bajo control terminamos haciendo reportes para ellos
+	- comenta como pudiste conectar rabbitmq con mqtt
+	- muestra los experimentos de django admin y tabla con columna json
+	- muestra el experimento de bedrock
+	- muestra el experimento de superset
