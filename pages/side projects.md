@@ -1,3 +1,4 @@
 - [[PR para vimPlugins en nix con venv-selector]]
 - [[PR para devenv.sh con localstack como servicio]]
+- [[crear un a app de terminal que sea tenga el playground e inspector de pharo]]
 -
