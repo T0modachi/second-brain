@@ -15,3 +15,5 @@
 	- muestra los experimentos de django admin y tabla con columna json
 	- muestra el experimento de bedrock
 	- muestra el experimento de superset
+	- muestra como ejecutaste pharo con steam-run y como distrobox se ve como genual alternativa (ref: https://nixos.wiki/wiki/Games )
+	-
