@@ -123,6 +123,7 @@
 		- enviar un mensaje es como un condicional, por que depende de la clase del reciver. el VM hace el lookup en la clase correcta y ejecuta lo que se necesite. Enviar un mensaje es un "choise operator"
 		- Recomienda evitar escribir condicionales (if) ya que se puede hacer lo mismo con objetos, mensajes y la jerarquia de clases para determinar que path de execucion tomar (un poco strategy patern)
 	- Variables
+	  collapsed:: true
 		- las locales comienzan con minusculas
 		- las compartidas (como Clases en el sistema, o variables de clases) con Mayuscula
 		- existen 6 variables especiales
@@ -136,3 +137,24 @@
 				- idem a self, pero el lookup del metodo comiensa con la clase padre (superClass)
 			- thisContext
 				- es el executionStack en curso
+	- Class methods
+	  collapsed:: true
+		- como en pharo todos son objetos, las clases tambien y pueden recibir mensajes... idem a los static method
+		- habitualmente se pueden usar para crear factory methods
+		- recuerda que tienen el keyword class y luego la definicion del metodo
+			- ```smalltalk
+			  String class>>with: aCharacter
+			  | newCollection |
+			  ...
+			  ```
+	- Collections escenciales
+		- tienen una api comun: size, do:,select:, includes:
+			- ![image.png](../assets/image_1727760147240_0.png)
+			-
+		- el primer elemento es 1 ... no 0
+		- OrderCollection(crece dinamicamente)
+		- Array (tamaña fijo)
+		- Set (sin duplicados)
+		- Dictionary (key-pair aka Maps aka hashtable)
+			- ![image.png](../assets/image_1727760713942_0.png)
+			-
