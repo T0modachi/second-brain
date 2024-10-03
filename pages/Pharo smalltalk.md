@@ -148,6 +148,7 @@
 			  ...
 			  ```
 	- Collections escenciales
+	  collapsed:: true
 		- tienen una api comun: size, do:,select:, includes:
 			- ![image.png](../assets/image_1727760147240_0.png)
 			-
@@ -158,3 +159,23 @@
 		- Dictionary (key-pair aka Maps aka hashtable)
 			- ![image.png](../assets/image_1727760713942_0.png)
 			-
+	- Iterators
+	  collapsed:: true
+		- collect -> equivalente al map
+		- select -> equivalente a filter
+		- reject -> idem a select pero con negación
+		- detect -> equivalente a find ... retorna el primero que encuentra
+		- do -> equivalente a forEach
+	- Streams
+		- idem a stream de java o iterators de otros lenguajes que tienen los metodos .next .previus
+		- hacegurate de cerrar el steam con close al final
+	- return ^
+		- metodo con ^
+			- retorna el valor especifico que este luego del ^ y sale del metodo
+		- metodo sin ^
+			- retorna self por defecto
+		- bloque con ^
+			- retorna expresion... pero ojo sale del metodo que lo evaluo ... no del bloque.
+		- bloque sin ^
+			- retorna la ultima expresión del bloque
+		-
