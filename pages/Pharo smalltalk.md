@@ -179,3 +179,8 @@
 		- bloque sin ^
 			- retorna la ultima expresión del bloque
 		-
+- Semana 4
+	- herencia
+		- estatico para definicion -> asigna sublclase al definirla
+		- dinamico para comportamientos -> los metodos se buscan entre super y subclases. Comienza desde la subclase y busca los metodos hasta las superclases
+		- los atributos se componene de los atributos padres mas los de la subclase
