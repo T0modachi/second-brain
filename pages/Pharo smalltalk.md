@@ -184,3 +184,7 @@
 		- estatico para definicion -> asigna sublclase al definirla
 		- dinamico para comportamientos -> los metodos se buscan entre super y subclases. Comienza desde la subclase y busca los metodos hasta las superclases
 		- los atributos se componene de los atributos padres mas los de la subclase
+		- self + super
+			- self y super, siempre representa al que recibe el mensaje
+			- super, cambiar el lookup comenzando por la clase que este arriba de el
+			- invociaciones a self son dinamicas y podrian ejecutar codigo de subclasess (como en double dispatch)
