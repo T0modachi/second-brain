@@ -180,11 +180,20 @@
 			- retorna la ultima expresión del bloque
 		-
 - Semana 4
-	- herencia
+	- herencia y lookup
 		- estatico para definicion -> asigna sublclase al definirla
 		- dinamico para comportamientos -> los metodos se buscan entre super y subclases. Comienza desde la subclase y busca los metodos hasta las superclases
 		- los atributos se componene de los atributos padres mas los de la subclase
 		- self + super
 			- self y super, siempre representa al que recibe el mensaje
 			- super, cambiar el lookup comenzando por la clase que este arriba de el
-			- invociaciones a self son dinamicas y podrian ejecutar codigo de subclasess (como en double dispatch)
+			- invociaciones a self son dinamicas y podrian ejecutar codigo de subclasess (como en double dispatch) ![image.png](../assets/image_1735990678305_0.png)
+			-
+		- DoesNotUnderstand:
+			- si el lookup falla, la clase Object tiene un metodo llamado "doesNotUnderstand" este retorna una excepción llamada MessageNotUnderstood. la cual puedes capturar
+			- tu clase puede sobreescribir el metodo doesNotUnderstand si asi gustas
+			- aca un snippet (que tambien muestra el equivalente a un try-catch) ![image.png](../assets/image_1735990249511_0.png)
+		- class methods
+			- ya que todo es objecto en pharo, no son mas que metodos regulares
+			- usualmente se usan para crear nuevas instancias pero se pueden usar para otras cosas
+			-
