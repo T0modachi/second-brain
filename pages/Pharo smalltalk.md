@@ -181,6 +181,7 @@
 		-
 - Semana 4
 	- herencia y lookup
+	  collapsed:: true
 		- estatico para definicion -> asigna sublclase al definirla
 		- dinamico para comportamientos -> los metodos se buscan entre super y subclases. Comienza desde la subclase y busca los metodos hasta las superclases
 		- los atributos se componene de los atributos padres mas los de la subclase
@@ -197,3 +198,13 @@
 			- ya que todo es objecto en pharo, no son mas que metodos regulares
 			- usualmente se usan para crear nuevas instancias pero se pueden usar para otras cosas
 			-
+	- web development
+		- overview
+			- seaside va a ser el framework web a usar
+			- mencionan voyage como orm para no relacional y garage como orm para relacionales
+			- magritte es lo que genera vistas al vuelo con descriptores (formularios, reportes)
+			- reef es js embebido
+		- Seaside
+			- todo esta difinido como componentes, la pagina principal es solo el root component
+			- los componentes tienen el metodo renderContentOn: para generar html
+				- ej: `html heading: 'Hello world'` -> `<h1>Hello world</h1>`
