@@ -208,3 +208,14 @@
 			- todo esta difinido como componentes, la pagina principal es solo el root component
 			- los componentes tienen el metodo renderContentOn: para generar html
 				- ej: `html heading: 'Hello world'` -> `<h1>Hello world</h1>`
+			- los brushes son "apis" que permiten meter html contextualizado segun algun framework css. ejemplo https://github.com/DuneSt/MaterialDesignLite
+		- Magritte:
+			- usando metadata permite: describe una sola ves, y genera multiples veces
+		- seaside-rest
+			- annotation de domain objects
+			- automatic url
+			- ![image.png](../assets/image_1738145549959_0.png)
+		- Voyage (NoSql database)
+			- con el metodo isVoyageRoot ^ true , puedo decirle que voyage que ese objeto se puede guardar en la base
+			- root es una especie de "foreing key"
+			- ojo voyage no maneja loops recursivos de objetos
